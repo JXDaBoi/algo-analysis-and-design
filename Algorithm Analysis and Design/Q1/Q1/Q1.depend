@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637166545 source:c:\users\jingx\onedrive\desktop\assignment\2109\algorithm analysis and design\assignment\q1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<iomanip>
+	<algorithm>
+	<chrono>
+
